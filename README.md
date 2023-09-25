@@ -1,5 +1,4 @@
-# CRED-T8
-Team ID: CRED-T8 | Team Members: Narendra Manglani &amp; Abhishek Ranjan
+# CRED-MIRROR
 
 ---
 
@@ -27,12 +26,6 @@ Build a Credit Card Management system (web application) which can handle the ent
 As an externship program we had provided a project to make a Credit Card Management System similar to CRED. We successfully build the web application as well as android application. 
 
 ---
-
-### Demo
-
-Below is a demo of final project.
-
-- [Demo Link](https://www.youtube.com/watch?v=3rGtfzDxl0A)
 
 - GIF  <br/> <br/> ![](./assets/demo.gif)
 
@@ -149,7 +142,3 @@ npm run client - to run client standalone.
 
 ---
 
-### Developed By
-
- - [Abhishek Ranjan](https://www.github.com/arabhiar)
- - [Narendra Manglani](https://github.com/ishuu7)
