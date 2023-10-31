@@ -6,12 +6,9 @@
 
 - [Objective](#objective)
 - [Introduction](#introduction)
-- [Demo](#demo)
 - [Features](#features)
 - [Built With(Tech Stack)](#built-with)
 - [How to Get Started](#how-to-get-started)
-- [Deployed Links](#deployed-links)
-- [Developed By](#developed-by)
 
 ---
 
@@ -25,9 +22,6 @@ Build a Credit Card Management system (web application) which can handle the ent
 
 As an externship program we had provided a project to make a Credit Card Management System similar to CRED. We successfully build the web application as well as android application. 
 
----
-
-- GIF  <br/> <br/> ![](./assets/demo.gif)
 
 ---
 
@@ -128,17 +122,4 @@ npm run server - to run server standalone
 npm run client - to run client standalone.
 ```
 
----
-
-### Deployed Links
-
-- Web Application
-    - [Link](https://cred-t8.netlify.app/)
-- Android APK
-    - [Link](https://drive.google.com/file/d/1oxP7BQGEgGeFnLBS8aiM3V_DLA0UQnCK/view?usp=sharing)
-- Demo Account
-    - email: ```cadel21249@vreagles.com```
-    - password: ```Temp@123```
-
----
 
